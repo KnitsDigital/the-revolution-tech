@@ -61,7 +61,7 @@ const Agenda = () => {
             Agenda del evento
           </h2>
           <p className="text-lg text-[#2b2b2b]">
-            Una tarde completa de charlas interesantes y divertidas para que
+            Una tarde completa de open spaces interesantes y divertidos para que
             vivamos una gran experiencia.
           </p>
         </div>

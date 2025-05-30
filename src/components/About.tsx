@@ -69,7 +69,7 @@ const About = () => {
           <div className="order-1 md:order-2">
             <p className="text-lg text-gray-700 mb-6">
               <strong>RevolutionTech</strong> es un evento organizado por la
-              asociación Adopta Un Junior y patrocinado por{" "}
+              asociación AdoptaUnJunior y patrocinado por{" "}
               <strong>KnitsDigital</strong>.
             </p>
             <p className="text-lg text-gray-700 mb-6">
