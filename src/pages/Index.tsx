@@ -15,22 +15,22 @@ const Index = () => {
     <>
       <Helmet>
         <title>Somos la Revolución Tech</title>
-        <meta name="description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. Organizado por Adopta Un Junior y patrocinado por KnitsDigital. 20 de junio en Utopicus de Paseo de la Habana, Madrid." />
+        <meta name="description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. Organizado por Adopta Un Junior y patrocinado por KnitsDigital. 20 de junio en Campu Google en la C. de Moreno Nieto, 2., Madrid." />
         <meta name="keywords" content="adopta un junior, evento tech, juniors en tecnología, networking tech, madrid tech event" />
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://evento.adoptaunjunior.org/" />
+        <meta property="og:url" content="www.therevolutiontech.es" />
         <meta property="og:title" content="Somos la Revolución Tech" />
         <meta property="og:description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. 20 de junio en Madrid." />
-        <meta property="og:image" content="/lovable-uploads/2abec195-8130-4126-8623-a4cba7cfe7b2.png" />
+        <meta property="og:image" content="/img/landing-evento.webp" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://evento.adoptaunjunior.org/" />
+        <meta property="twitter:url" content="www.therevolutiontech.es" />
         <meta property="twitter:title" content="Somos la Revolución Tech" />
         <meta property="twitter:description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. 20 de junio en Madrid." />
-        <meta property="twitter:image" content="/lovable-uploads/2abec195-8130-4126-8623-a4cba7cfe7b2.png" />
+        <meta property="twitter:image" content="/img/landing-evento.webp" />
         
         {/* Schema.org structured data */}
         <script type="application/ld+json">
