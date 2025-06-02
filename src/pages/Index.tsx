@@ -23,14 +23,14 @@ const Index = () => {
         <meta property="og:url" content="www.therevolutiontech.es" />
         <meta property="og:title" content="Somos la Revolución Tech" />
         <meta property="og:description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. 20 de junio en Madrid." />
-        <meta property="og:image" content="/img/landing-evento.png" />
+        <meta property="og:image" content="https://fra.cloud.appwrite.io/v1/storage/buckets/681a5cea0006882fa769/files/683d76a000069dd3cfa9/view?project=681a5cd40032c877b989" />
         
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="www.therevolutiontech.es" />
         <meta property="twitter:title" content="Somos la Revolución Tech" />
         <meta property="twitter:description" content="Un evento diseñado para conectar juniors con profesionales en el mundo tech. 20 de junio en Madrid." />
-        <meta property="twitter:image" content="/img/landing-evento.png" />
+        <meta property="twitter:image" content="https://fra.cloud.appwrite.io/v1/storage/buckets/681a5cea0006882fa769/files/683d76a000069dd3cfa9/view?project=681a5cd40032c877b989" />
         
         {/* Schema.org structured data */}
         <script type="application/ld+json">
@@ -40,7 +40,7 @@ const Index = () => {
               "@type": "Event",
               "name": "Somos la Revolución Tech",
               "description": "Un evento diseñado para conectar juniors con profesionales en el mundo tech. Organizado por Adopta Un Junior y patrocinado por KnitsDigital.",
-              "image": "/img/landing-evento.png",
+              "image": "https://fra.cloud.appwrite.io/v1/storage/buckets/681a5cea0006882fa769/files/683d76a000069dd3cfa9/view?project=681a5cd40032c877b989",
               "startDate": "2025-06-20T10:00",
               "endDate": "2025-06-20T18:00",
               "location": {
