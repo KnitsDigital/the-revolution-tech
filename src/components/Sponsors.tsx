@@ -22,7 +22,7 @@ const Sponsors = () => {
     },
     {
       name: "Savvily",
-      logo: "/img/3.svg",
+      logo: "/img/4.svg",
       website: "https://savvily.es/"
     },
   ];
