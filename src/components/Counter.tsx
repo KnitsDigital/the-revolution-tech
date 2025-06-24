@@ -6,21 +6,21 @@ const Counter = () => {
   const stats = [
     {
       title: 'Recaudado',
-      amount: 'Contando....',
+      amount: '390 €',
       description: 'De la venta de entradas',
       icon: Euro,
       color: 'text-brand-purple'
     },
     {
       title: 'Gastos del evento',
-      amount: 'Contando....',
+      amount: '174,72 €',
       description: 'Catering y material',
       icon: TrendingUp,
       color: 'text-brand-aqua'
     },
     {
       title: 'Para donación',
-      amount: 'Contando....',
+      amount: '215,98 €',
       description: 'Destinados a protectora de animales',
       icon: Heart,
       color: 'text-brand-green'
